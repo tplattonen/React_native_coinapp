@@ -13,7 +13,7 @@
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
     "fbjs": "*",
-    "axios": "0.18.0",
+    "axios": "0.19.0",
     "prop-types": "*",
     "native-base": "2.8.1",
     "react-navigation": "2.18.2",
